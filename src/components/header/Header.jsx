@@ -1,6 +1,6 @@
 import './header.css'
 
-import headerBg from '../Image/headerBg.jpg'
+import headerBg from '../../Image/headerBg.jpg'
 
 const Header=()=>{
     return(

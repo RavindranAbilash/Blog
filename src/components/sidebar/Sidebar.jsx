@@ -1,5 +1,5 @@
 import './Sidebar.css'
-import sidebarImg from '../Image/sidebarImg.jpg'
+import sidebarImg from '../../Image/sidebarImg.jpg'
 
 
 const Sidebar=()=>{

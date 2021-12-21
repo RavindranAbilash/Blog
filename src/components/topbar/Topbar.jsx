@@ -1,6 +1,6 @@
 import './topbar.css'
 
-import profilePic from '../Image/profilePic.jpg'
+import profilePic from '../../Image/profilePic.jpg'
 
 const Topbar=()=>{
     return(
